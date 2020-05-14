@@ -8,10 +8,10 @@ Script de drogue, refait à 90%, le reste vient d'esx_drugs
 
 📦 Description:
 
-   - Weed,Meth,Coke,Faux Papiers
-   - Invisibilité du point pour le métier de police/ambulance
-   - Impossibilité de voir les points en véhicule
-   - Freeze du joueur, temps défini et animation impossible à annuler afin d'éviter les sortis de zones pour spam et dupliquer
+    Weed,Meth,Coke,Faux Papiers
+    Invisibilité du point pour le métier de police/ambulance
+    Impossibilité de voir les points en véhicule
+    Freeze du joueur, temps défini et animation impossible à annuler afin d'éviter les sortis de zones pour spam et dupliquer
     
 
 🔒 Dépendances:
