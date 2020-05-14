@@ -1,6 +1,6 @@
 # kozeuh_drugs
 
-My personal drug script v0.1
+My personal drug script
 
 Script de drogue, refait à 90%, le reste vient d'esx_drugs
 
